@@ -1,5 +1,5 @@
-# SimpleMultipleConfigforWinform
-
+# Multiple Config for Winform
+## Windows Form
 ### Tool 
 [Configuration Transform](https://marketplace.visualstudio.com/items?itemName=GolanAvraham.ConfigurationTransform)
 
